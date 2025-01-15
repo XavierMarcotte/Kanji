@@ -1,0 +1,15 @@
+@import "./base.css";
+
+#app {
+  width: 80%;
+  margin: 5rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p,
+form,
+div {
+  margin: 1rem auto;
+}
